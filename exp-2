@@ -1,4 +1,3 @@
-print("8 queens problem")
 print ("Enter the number of queens")
 N = int(input())
 board = [[0]*N for _ in range(N)]
